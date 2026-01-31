@@ -122,5 +122,3 @@ This project demonstrates that deep learning models, especially hybrid CNN+GNN a
 
 ---
 
-
-Just tell me 👌
