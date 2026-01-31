@@ -1,0 +1,5 @@
+path = kagglehub.dataset_download("masoudnickparvar/brain-tumor-mri-dataset")
+dataset_path = os.path.join(path, "Training")
+
+print("Dataset path:", dataset_path)
+print("Classes:", os.listdir(dataset_path))
